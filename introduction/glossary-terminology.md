@@ -1,5 +1,6 @@
 # Glossary / Terminology
 
+* CSO - Civil Society Organization
 * ICE form - itemized cost estimate
 * IP \(Implementing Partner\) - a CSO that receives resources from UNICEF for the implementation of a programme document or small-scale funding agreement.
 * FACE - Funding Authorization and Certification of Expenditures. **FACE form** is used to request cash transfers, report on expenditures and certify expenditures. FACE is used for all types of fund transfers; Cash Advance/Direct cash transfers, direct payments and reimbursements.
