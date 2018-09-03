@@ -80,13 +80,13 @@ See the example of  Implementing Partner section below.
 
 ## **Implementing Partner section** 
 
-\(overall screen should be added later - after fixing the bug with margins\) ****
-
 The section consists of the expandable rows describing the particular question.
+
+![Implementing Partner section: the overall user interface](../../../../.gitbook/assets/26.png)
 
 The user is able to answer the question via "Edit" button: 
 
-\(screenshot\) 
+![Edit button](../../../../.gitbook/assets/27%20%281%29.png)
 
 The editing is available in the following modal window:
 

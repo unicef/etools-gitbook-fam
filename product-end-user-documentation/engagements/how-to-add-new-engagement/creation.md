@@ -18,5 +18,5 @@ The **created** engagement has the reference number displayed in the top of the 
 
 The following email of granted access is sent to the Auditor after the Engagement was created.
 
-![Email of granting the access to the engagement](../../../.gitbook/assets/26.png)
+![Email of granting the access to the engagement](../../../.gitbook/assets/26%20%281%29.png)
 
