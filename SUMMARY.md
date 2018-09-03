@@ -42,6 +42,7 @@
 * [Development Setup](technical-documentation/development-setup.md)
 * [Deployment / DevOps](technical-documentation/deployment-devops.md)
 * [Data Model](technical-documentation/data-model.md)
+* [Interaction with VISION](technical-documentation/interactions-with-vision.md)
 * [API Documentation](technical-documentation/api-documentation/README.md)
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
 
