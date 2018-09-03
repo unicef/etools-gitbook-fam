@@ -105,7 +105,7 @@ Adding new document is available is available in the following modal window open
 
 The attached file can be edited and deleted by "Edit" and "Delete" button accordingly.
 
-![Edit button](../../../.gitbook/assets/23.png)
+![Edit button](../../../.gitbook/assets/23%20%281%29.png)
 
 ![Delete button](../../../.gitbook/assets/24.png)
 {% endtab %}
