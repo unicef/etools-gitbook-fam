@@ -119,7 +119,7 @@ The date appears below each status after entering the corresponding fields.
 
 New Engagement has the status **IP Contacted**. 
 
-Other statuses become activated after the Auditor reports the engagements \(see more details [here](../edit-by-auditor/)\).
+Other statuses are activated after the Auditor reports the engagements \(see more details [here](../edit-by-auditor/)\).
 {% endtab %}
 {% endtabs %}
 
