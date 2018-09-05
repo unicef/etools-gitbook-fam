@@ -14,7 +14,7 @@ description: There are 3 ways to access the FAM.
 
 The user can access the FAM via the link in the email to a **particular engagement** which is accessed to him or via a link for **signing in** FAM.
 
-## 3\) **via Action Point Dashboard** \(through the action point created in the FAM\) 
+## 3\) **via Action Point Dashboard** \(through the link to related task for AP created in the FAM\) 
 
  1\) Switching to Action Point Dashboard via icon ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJT531BxmrgZ_gS1UJP%2F-LLdSZCmP9Xt61EOGZKG%2F-LLdSHF8vcYThhIVz5AI%2F4.png?alt=media&token=a67ecd4e-9ae4-4914-9795-2a0c01ab5438) by selecting “Action Points”:
 
