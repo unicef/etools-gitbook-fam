@@ -24,9 +24,9 @@ The user can access the FAM via the link in the email to a **particular engageme
 
 ![List of Action Points filtered by Financial Assurance related app](../.gitbook/assets/35%20%281%29.png)
 
-2\) Clicking on the reference number in the particular row to open the action point details screen.
+3\) Clicking on the reference number in the particular row to open the action point details screen.
 
-3\) Clicking the link in the "Related Document" field: 
+4\) Clicking the link in the "Related Document" field: 
 
 ![Link to the Related Document in FAM](../.gitbook/assets/34.png)
 
