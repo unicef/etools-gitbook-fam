@@ -28,7 +28,7 @@ The List of Action points can be exported to **CSV** file by "Export" button in 
 
  In the upper, right-hand corner the user can use "Add filter" option with set of parameters to be chosen.
 
-![](../../.gitbook/assets/34.png)
+![](../../.gitbook/assets/34%20%281%29.png)
 
  The additional search field appears behind search bar after particular filter parameter has been selected.
 

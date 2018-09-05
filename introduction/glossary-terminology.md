@@ -1,5 +1,6 @@
 # Glossary / Terminology
 
+* AP - action point
 * CSO - Civil Society Organization
 * ICE form - itemized cost estimate
 * IP \(Implementing Partner\) - a CSO that receives resources from UNICEF for the implementation of a programme document or small-scale funding agreement.
