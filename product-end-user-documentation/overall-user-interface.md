@@ -29,7 +29,7 @@ In the bottom:
 
 * eTools Community Channels \("Knowledge Base", "Discussion", "Information"\)
 
-![eTools Community Channels](../.gitbook/assets/24%20%281%29.png)
+![Bottom of the left navigation panel](../.gitbook/assets/24%20%281%29.png)
 
   
 
