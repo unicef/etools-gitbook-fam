@@ -13,7 +13,7 @@ Here is the overall user interface for Financial Assurance Module:
 
 ![Header](../.gitbook/assets/23.png)
 
-![Switch](../.gitbook/assets/3%20%281%29.png)
+![Switch to other applications](../.gitbook/assets/3%20%281%29.png)
 
 **Сollapsible left navigation panel** with:
 
