@@ -37,7 +37,7 @@ Each Action point added to the section can be duplicated or edited via "Duplicat
 
 Clicking on the reference number for the particular action point moves user to the corresponding Action point details screen in the Action Point Dashboard. 
 
-More detailed information of the Action points see in the [Action Point Dashboard Documentation.](https://new-company.gitbook.io/action-points-dashboard/)  
+See more details of the Action points in the [Action Point Dashboard Documentation.](https://new-company.gitbook.io/action-points-dashboard/)  
 
 
   
