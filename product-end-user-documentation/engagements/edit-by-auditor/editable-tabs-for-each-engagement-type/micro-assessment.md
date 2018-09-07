@@ -20,13 +20,13 @@ The Report tab for **Micro Assessment type** has the following sections:
 
 ![Report tab for MA: overall user interface](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJxF2RKg63Q700gpAQ8%2F-LKaWKDkPJAjRqVYilvP%2F-LKaYSaEDieEh4YOY7f-%2F62.png?alt=media&token=643f9794-f14b-47a8-8c7b-da8b71f02d33)
 
-## Overall Risk Assessment {#overall-risk-assessment}
+### Overall Risk Assessment
 
 Here is overall user interface of this section:​
 
 ![Overall Risk Assessment: user interface](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJxF2RKg63Q700gpAQ8%2F-LKaWKDkPJAjRqVYilvP%2F-LKaXX19WCMVmeBU9VZK%2F63.png?alt=media&token=c457f771-5ea8-46ca-bc2d-914a1b0a9f65)
 
-## Tested Subject Areas {#tested-subject-areas}
+### Tested Subject Areas
 
 Tested Subject Areas section consists of the expandable rows describing the particular area.​
 
@@ -40,7 +40,7 @@ Each row can be edited via "Edit" button:
 
 ![Edit Subject Area modal window](../../../../.gitbook/assets/69.png)
 
-## Detailed Internal Control Findings and Recommendations
+### Detailed Internal Control Findings and Recommendations
 
 The section consist of the expandable rows describes the particular Findings:
 
@@ -78,7 +78,7 @@ The Questionnaire tab includes 7 sections with questions the user has to answer.
 
 See the example of  Implementing Partner section below. 
 
-## **Implementing Partner section** 
+### **Implementing Partner section** 
 
 The section consists of the expandable rows describing the particular question.
 

@@ -15,7 +15,7 @@ Here are the common parts for each type of Engagements and the editable sections
 
 The detailed information of this tab can be find [here](../how-to-add-new-engagement/). 
 
-## Editable section:
+### Editable section:
 
 * **Audit Staff Team Members** section.
 
@@ -39,7 +39,7 @@ The other parts of Report tab is described [here](editable-tabs-for-each-engagem
 
 The detailed information of the Related Documents section can be find [here](../how-to-add-new-engagement/).
 
-## Editable section:
+### Editable section:
 
 * **Report Attachments** section
 
