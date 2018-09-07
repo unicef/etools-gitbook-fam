@@ -25,7 +25,7 @@ New Finding can be added via the "+" button in the upper, right-hand corner:
 
 ![Add button](../../../../.gitbook/assets/84.png)
 
-Adding of New Finding is available in the following modal window: 
+Adding New Finding is available in the following modal window: 
 
 ![Add New Finding modal window](../../../../.gitbook/assets/85.png)
 
@@ -43,7 +43,7 @@ Here is the overall user interface:
 
 ![Summary of Low Priority Findings and Recommendations: overall user interface](../../../../.gitbook/assets/88.png)
 
-Adding of new finding is available via "+" button:
+Adding new finding is available via "+" button:
 
 ![Add button](../../../../.gitbook/assets/90.png)
 

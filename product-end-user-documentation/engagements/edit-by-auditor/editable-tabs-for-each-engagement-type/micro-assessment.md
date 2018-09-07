@@ -46,7 +46,7 @@ The section consist of the expandable rows describes the particular Findings:
 
 ![Detailed Internal Control Findings and Recommendation: overall interface](../../../../.gitbook/assets/67.png)
 
-Adding of new findings is possible via the "+" button:
+Adding  new findings is possible via the "+" button:
 
 ![Add findings button](../../../../.gitbook/assets/71.png)
 

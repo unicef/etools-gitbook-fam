@@ -25,7 +25,7 @@ The following modal window is opened after clicking the "Edit" button:
 
 ![Other Observations and Recommendations: overall user interface](../../../../.gitbook/assets/101.png)
 
-Adding of new recommendation is available via "+" button. The following modal window is opened after clicking the "+" button:
+Adding new recommendation is available via "+" button. The following modal window is opened after clicking the "+" button:
 
 ![Add New Recommendation modal window](../../../../.gitbook/assets/98.png)
 

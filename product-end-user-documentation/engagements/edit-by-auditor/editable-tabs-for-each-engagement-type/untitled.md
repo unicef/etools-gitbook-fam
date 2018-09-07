@@ -33,7 +33,7 @@ The new finding can be added via "+" button in the upper, right-hand corner of t
 ![Add button](../../../../.gitbook/assets/51%20%281%29.png)
 
   
-Adding of new Finding is available in the following modal window: 
+Adding new Finding is available in the following modal window: 
 
 ![Add New Finding modal window](../../../../.gitbook/assets/52.png)
 
@@ -52,7 +52,7 @@ Each Finding can be edited or deleted via the "Edit" or "Delete" button accordin
 ![Overall interface ](../../../../.gitbook/assets/56%20%281%29.png)
 
   
-Adding of new Assessment is available in the following modal window opened via "+" button: 
+Adding new Assessment is available in the following modal window opened via "+" button: 
 
 ![Add New Assessment of Key Internal Controls modal window ](../../../../.gitbook/assets/57.png)
 
@@ -70,7 +70,7 @@ The New risk for each row can be added by "+" button:
 ![Add risk button](../../../../.gitbook/assets/59.png)
 
   
-Adding of new Risk is available in the following modal window: 
+Adding new Risk is available in the following modal window: 
 
 ![Add New Risk modal window](../../../../.gitbook/assets/66.png)
 
