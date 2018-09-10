@@ -24,7 +24,7 @@ The "Submit" option can be find in the drop-down list of the split button "Save"
 
 ![Submit button](../../../.gitbook/assets/37.png)
 
-## **Email**
+## **Email notification**
 
 The following email is sent to the UNICEF Focal Point of completing the final report.
 
