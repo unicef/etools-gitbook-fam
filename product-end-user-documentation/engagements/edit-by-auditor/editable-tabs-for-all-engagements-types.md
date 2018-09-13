@@ -5,7 +5,7 @@ The created Engagement consists of the following parts:
 * Engagement Overview tab
 * Report tab
 * Attachments tab
-* Status panel \(the detailed information see [here](../how-to-add-new-engagement/)\) 
+* Status panel \(the detailed information see [here](../how-to-add-new-engagement.md)\) 
 
 Here are the common parts for each type of Engagements and the editable sections for them:
 
@@ -13,13 +13,13 @@ Here are the common parts for each type of Engagements and the editable sections
 {% tab title="Engagement Overview tab " %}
 ![Engagement Overview tab](../../../.gitbook/assets/40.png)
 
-The detailed information of this tab can be find [here](../how-to-add-new-engagement/). 
+The detailed information of this tab can be find [here](../how-to-add-new-engagement.md). 
 
 ### Editable section:
 
 * **Audit Staff Team Members** section.
 
-See more information about this section[ here](../how-to-add-new-engagement/). 
+See more information about this section[ here](../how-to-add-new-engagement.md). 
 {% endtab %}
 
 {% tab title="Report tab" %}
@@ -37,7 +37,7 @@ The other parts of Report tab is described [here](editable-tabs-for-each-engagem
 {% tab title="Attachments" %}
 ![Attachments tab](../../../.gitbook/assets/44.png)
 
-The detailed information of the Related Documents section can be find [here](../how-to-add-new-engagement/).
+The detailed information of the Related Documents section can be find [here](../how-to-add-new-engagement.md).
 
 ### Editable section:
 

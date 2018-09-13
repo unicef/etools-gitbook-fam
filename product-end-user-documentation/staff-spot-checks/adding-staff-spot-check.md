@@ -1,6 +1,6 @@
 # Adding Staff Spot Check
 
-Adding the Staff Spot Check is similar to adding the engagement described in the [How to add the Engagement?](../engagements/how-to-add-new-engagement/) article.
+Adding the Staff Spot Check is similar to adding the engagement described in the [How to add the Engagement?](../engagements/how-to-add-new-engagement.md) article.
 
 Here is the overall user interface: 
 

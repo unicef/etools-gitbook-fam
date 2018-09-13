@@ -1,38 +1,38 @@
-# How to report the Engagement?
+# Reporting of Engagement
 
-Reporting the engagement **by Auditor** is available after receiving the access to the particular engagement.
+After the user \(**Auditor**\) gets the access to the particular engagement, the Report can be filled in.
 
 {% hint style="warning" %}
-Reporting is available till the Engagement status is **"Report submitted"**. 
+Reporting is available up untill the Engagement status is **"Report submitted"**. 
 
-**"Canceled"** Engagement isn't available for reporting.
+For **Canceled** Engagement the Report is not available.
 {% endhint %}
 
-You can find more detailed information about editable fields for all engagement types in the following articles: [Editable tabs for all Engagement types ](editable-tabs-for-all-engagements-types.md)and [Editable tabs for each Engagement type](editable-tabs-for-each-engagement-type/).
+You can find more details about the editable fields for all engagement types in the following articles: [Editable tabs for all Engagement types ](editable-tabs-for-all-engagements-types.md)and [Editable tabs for each Engagement type](editable-tabs-for-each-engagement-type/).
 
-## Saving
+## Save changes
 
-Changes can be saved via the split button "Save" in the bottom of Status panel.
+Changes can be saved via the split button "Save" at the bottom of Status panel.
 
 ![Save button](../../../.gitbook/assets/36.png)
 
-## Submitting
+## Submit Report
 
 Submitting is available after all required information is entered and the report is attached in the Attachments tab.
 
-The "Submit" option can be find in the drop-down list of the split button "Save".  
+The "Submit" option can be in the drop-down list of the "Save" split button.  
 
 ![Submit button](../../../.gitbook/assets/37.png)
 
 ## **Email notification**
 
-The following email is sent to the UNICEF Focal Point of completing the final report.
+UNICEF Focal Point receives the following email right after the Report was submitted:
 
-![Email of completion the final report of engagement](../../../.gitbook/assets/38.png)
+![Email for the final report completion](../../../.gitbook/assets/38.png)
 
 ## **Export** 
 
-The Auditor is able to export the engagement to **PDF** or **CSV** file via the "Export" button in the upper right-hand corner.
+Auditor can **export** the engagement to the **PDF** or **CSV** file via the "Export" button in the upper right-hand corner.
 
 ![Export options](../../../.gitbook/assets/49.png)
 
