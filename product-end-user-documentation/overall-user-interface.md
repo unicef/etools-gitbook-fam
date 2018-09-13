@@ -33,9 +33,5 @@ In the bottom:
 
 ![Bottom of the left navigation panel](../.gitbook/assets/24%20%281%29.png)
 
- **List of Engagements** is the main element on this page:
-
-![List of Engagements](../.gitbook/assets/119.png)
-
-This list provides the ability to manage all of the created Engagements: open details of the specific Engagement or quickly see its overview. Detailed description of this list can be found[ here.](engagements/list-of-engagements.md)
+ 
 
