@@ -117,7 +117,7 @@ The date appears below each status after entering the corresponding fields.
 
 ![Status panel](../../../.gitbook/assets/28.png)
 
-New Engagement has the status **IP Contacted**. 
+New Engagement has status **IP Contacted**. 
 
 Other statuses are activated after the Auditor reports the engagements \(see more details [here](../edit-by-auditor/)\).
 {% endtab %}
