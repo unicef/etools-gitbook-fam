@@ -6,9 +6,7 @@ The aim of this documentation is to describe the Financial Assurance Module \(FA
 
 This documentation has a navigation sidebar on the left of the screen, which can be used to find and open a particular article. Each article also has navigation links at the bottom to move to the next article.
 
-Also we used links that will provide moving you to the particular article associated with the specific topic.
-
-There are 3 main part in FAM documentation:
+ This documentation consists of 3 main parts:
 
 * **Introduction** \(includes glossary, release article, contact information\);
 * **Product \(end-user documentation\)** Here you can find the description of:

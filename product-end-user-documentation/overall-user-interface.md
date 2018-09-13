@@ -19,19 +19,27 @@ The following sections are represented for overall UI:
 
 **Сollapsible left navigation panel** with:
 
-In the top:
+At the top:
 
-* label,
+* label with the module name,
 * Engagements section,
 * Staff Spot Checks section.
 
 ![Top of the left navigation panel](../.gitbook/assets/4.png)
 
-In the bottom:
+At the bottom:
 
 * eTools Community Channels \("Knowledge Base", "Discussion", "Information"\)
 
 ![Bottom of the left navigation panel](../.gitbook/assets/24%20%281%29.png)
 
- 
+**List of Engagements** is the main element on this page:
+
+![List of Engagements](../.gitbook/assets/2018-09-13_1022.png)
+
+  
+This list provides the ability to manage all of the created Engagements, open details of the specific Engagement and access the Report, Follow-Ups and Attachments. 
+
+Detailed description of the Engagements list can be found [here](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMCFaMf3pf4SDYfAvvB/product-end-user-documentation/engagements/list-of-engagements).  
+
 

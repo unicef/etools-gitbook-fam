@@ -1,6 +1,6 @@
 # List of Engagements
 
-Filterable list of the Engagements. Here is the overall user interface: 
+List of Engagements contains Engagements of all types.  Here is the overall user interface:
 
 ![List of Engagements: overall user interface](../../.gitbook/assets/image.png)
 

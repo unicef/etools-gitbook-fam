@@ -13,7 +13,7 @@
 
 * [Overview](product-end-user-documentation/overview/README.md)
   * [User roles and permissions](product-end-user-documentation/overview/user-roles-and-permissions.md)
-* [How to get to the FAM?](product-end-user-documentation/how-to-get-to-the-fam.md)
+* [Financial Assurance Module Navigation](product-end-user-documentation/how-to-get-to-the-fam.md)
 * [Overall User Interface](product-end-user-documentation/overall-user-interface.md)
 * [Engagements section](product-end-user-documentation/engagements/README.md)
   * [List of Engagements](product-end-user-documentation/engagements/list-of-engagements.md)

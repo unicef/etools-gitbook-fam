@@ -20,3 +20,7 @@ The following email of granted access is sent to the Auditor after the Engagemen
 
 ![Email of granting the access to the engagement](../../../.gitbook/assets/26%20%281%29.png)
 
+{% hint style="info" %}
+Creation of engagement is available for **UNICEF Focal Point**. See more details about user rights in the [following article](../../overview/user-roles-and-permissions.md).
+{% endhint %}
+
