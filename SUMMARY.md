@@ -32,8 +32,8 @@
   * [How to finalize the engagement?](product-end-user-documentation/engagements/finalization/README.md)
     * [Follow-up tab](product-end-user-documentation/engagements/finalization/follow-up-tab.md)
 * [Staff Spot Checks section](product-end-user-documentation/staff-spot-checks/README.md)
-  * [Adding Staff Spot Check](product-end-user-documentation/staff-spot-checks/adding-staff-spot-check.md)
   * [List of Staff Spot Checks](product-end-user-documentation/staff-spot-checks/list-of-staff-spot-checks.md)
+  * [Adding Staff Spot Check](product-end-user-documentation/staff-spot-checks/adding-staff-spot-check.md)
 * [FAM workflow](product-end-user-documentation/fam-workflow.md)
 
 ## TECHNICAL DOCUMENTATION
