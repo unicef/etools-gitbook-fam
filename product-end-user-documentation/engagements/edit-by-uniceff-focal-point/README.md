@@ -10,7 +10,7 @@ The detailed description of these sections you can find in [How to add the Engag
 {% hint style="warning" %}
 Editing/cancelling is available till the Engagement status is **"Report submitted"** 
 
- **"Canceled"** Engagement isn't available for editing.
+ **"Canceled"** Engagement is not available for editing.
 {% endhint %}
 
 
