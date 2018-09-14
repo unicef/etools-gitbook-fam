@@ -1,6 +1,6 @@
 # User roles and permissions
 
-The below table represents the various roles and permissions for the three different users who use the Financial Assurance Module.
+The below table represents the various roles and permissions for three different users who use the Financial Assurance Module.
 
 | Available Actions | UNICEF Focal Point | Auditor | UNICEF user |
 | :--- | :--- | :--- | :--- |
