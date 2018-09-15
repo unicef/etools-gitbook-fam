@@ -1,11 +1,13 @@
 # Editable tabs for all Engagement types
 
-The created Engagement consists of the following parts:
+Screen of the created Engagement  has 4 sections:
 
 * Engagement Overview tab
 * Report tab
 * Attachments tab
 * Status panel \(the detailed information see [here](../how-to-add-new-engagement.md)\) 
+
+Description of the 
 
 Here are the common parts for each type of Engagements and the editable sections for them:
 

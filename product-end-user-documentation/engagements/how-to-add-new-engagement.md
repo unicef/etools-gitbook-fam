@@ -8,7 +8,7 @@ User can **Add** **New Engagement** by clicking the "Add New Engagement"  button
 
 ![Add new engagement button](../../.gitbook/assets/5.png)
 
- The following screen is opened after the user clicks  the "Add New Engagement" button:
+The following screen is opened after the user clicks  the "Add New Engagement" button:
 
 ![Add New Engagement screen](../../.gitbook/assets/6.png)
 
