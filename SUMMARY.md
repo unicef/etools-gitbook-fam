@@ -19,6 +19,7 @@
   * [List of Engagements](product-end-user-documentation/engagements/list-of-engagements.md)
   * [Creation of Engagement](product-end-user-documentation/engagements/how-to-add-new-engagement.md)
   * [Reporting of Engagement](product-end-user-documentation/engagements/edit-by-auditor/README.md)
+    * [Audit Report](product-end-user-documentation/engagements/edit-by-auditor/audit-report.md)
     * [Editable tabs for all Engagement types](product-end-user-documentation/engagements/edit-by-auditor/editable-tabs-for-all-engagements-types.md)
     * [Editable tabs for each Engagement type](product-end-user-documentation/engagements/edit-by-auditor/editable-tabs-for-each-engagement-type/README.md)
       * [Editable sections for Audit](product-end-user-documentation/engagements/edit-by-auditor/editable-tabs-for-each-engagement-type/untitled.md)

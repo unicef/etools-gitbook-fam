@@ -12,6 +12,10 @@ The following screen is opened after the user clicks  the "Add New Engagement" b
 
 ![Add New Engagement screen](../../.gitbook/assets/6.png)
 
+{% hint style="info" %}
+User can create 4 different types of Engagements:  Audit, Micro Assessment, Spot Check and Special Audit. Each engagement type has some differences comparing to the other ones, and they will be discussed in details in the corresponding sections.
+{% endhint %}
+
 There are **3 sections** displayed on the screen:
 
 * Engagement Overview tab

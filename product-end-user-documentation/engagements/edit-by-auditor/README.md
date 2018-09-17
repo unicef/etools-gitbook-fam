@@ -3,8 +3,10 @@
 After the user \(**Auditor**\) gets the access to the particular engagement, the Report can be filled in.
 
 {% hint style="info" %}
-Reporting is available until the Engagement status is **"Report submitted"**. 
+Auditor can fill in or change the Report up until the Engagement status is **"Report submitted"**. 
+{% endhint %}
 
+{% hint style="info" %}
 For **Canceled** Engagement the Report is not available.
 {% endhint %}
 
@@ -18,9 +20,9 @@ Changes can be saved via the split button "Save" at the bottom of Status panel.
 
 ## Submit Report
 
-Submitting is available after all required information is entered and the report is attached in the Attachments tab.
+Submitting is available after all required information is entered and the report document is attached in the Attachments tab.
 
-The "Submit" option can be in the drop-down list of the "Save" split button.  
+"Submit" option can be in the drop-down list of the "Save" split button.  
 
 ![Submit button](../../../.gitbook/assets/37.png)
 
