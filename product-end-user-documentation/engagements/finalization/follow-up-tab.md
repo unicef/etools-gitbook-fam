@@ -2,12 +2,33 @@
 
 The Follow-up tab includes the following  **sections** in accordance with the Engagement type: 
 
-| Sections/Engagement type | Audit/Spot Checks | Micro Assessment/Special Audit |
-| :--- | :--- | :--- |
-| Financial Findings section | Y | N |
-| UNICEF Follow-Up Actions section | Y | Y |
-
-## **Financial Findings section** 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Sections/Engagement type</th>
+      <th style="text-align:left">Audit/Spot Checks</th>
+      <th style="text-align:left">Micro Assessment/Special Audit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>Financial Findings section</p>
+      </td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">N</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>UNICEF Follow-Up Actions section</p>
+      </td>
+      <td style="text-align:left">Y</td>
+      <td style="text-align:left">Y</td>
+    </tr>
+  </tbody>
+</table>## **Financial Findings section** 
 
 ![Financial Findings section: overall user interface](../../../.gitbook/assets/108.png)
 

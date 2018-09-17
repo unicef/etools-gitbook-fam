@@ -1,7 +1,7 @@
 # Creation of Engagement
 
 {% hint style="info" %}
-Creation of engagement is available for **UNICEF Focal Point** user. See more details about user rights in the [following article](../overview/user-roles-and-permissions.md).
+Creation of engagement is available for **UNICEF Focal Point** user. See more details about user rights in the ["User roles and permissions" ](../overview/user-roles-and-permissions.md)article.
 {% endhint %}
 
 User can **Add** **New Engagement** by clicking the "Add New Engagement"  button, placed in the upper right-hand corner of the Engagements screen.
@@ -31,7 +31,7 @@ Engagement Overview tab includes the following **sections**:
 
 ## Engagement Overview section
 
-Depending on the type of the Engagement, that was chosen \(Audit, MA, SC, Special Audit\), displayed fields in this section varies. 
+Displayed fields in this section vary depending on the type of the Engagement, that was chosen \(Audit, MA, SC, Special Audit\).
 
 **Example** \(Audit type is selected\):
 
@@ -41,7 +41,7 @@ Depending on the type of the Engagement, that was chosen \(Audit, MA, SC, Specia
 If Audit or Spot check Engagement type is selected, user can see the tool-tip, that reminds to attach the required documents.  
 {% endhint %}
 
-![Reminder](../../.gitbook/assets/8.png)
+![Tool-tip with the reminder](../../.gitbook/assets/8.png)
 
 Some fields \(PO Date, Vendor Name, Contract Expiry Date\) are filled in automatically after entering the Purchase Order Number.
 
@@ -55,7 +55,7 @@ The most part of this section is filled in automatically after choosing the Part
 
 The list of auditors is compiled in accordance with the entered Purchase Order Number.
 
-User can select among the existing Audit Staff team Members or add a new Auditor via the "+" button in the upper right-hand corner of the list:
+User can select exiting auditor in the Audit Staff Team Members list or add a new Auditor via the "+" button in the upper right-hand corner of the list:
 
 ![Add New Auditor button](../../.gitbook/assets/10.png)
 
@@ -65,7 +65,7 @@ Add New Audir Staff Team Member modal window is presented in the following scree
 
 User can grant the access to the particular auditor in the modal window during the creation or via check-box in the list of Auditors: 
 
-![Has Access check-box](../../.gitbook/assets/12.png)
+![&quot;Has Access&quot; check-box](../../.gitbook/assets/12.png)
 
 **Editing/Deleting**
 
@@ -83,9 +83,11 @@ Search in the Audit Staff Team Members list is available via "Search" icon in th
 
 User can choose the number of the rows, displayed per page \(The default value is 10 rows per page\).
 
-## Specific Procedure To Be Performed \(only for Special Audit type\)
+## Specific Procedure To Be Performed 
 
-This section is available only in case the Special Audit type is selected.
+{% hint style="info" %}
+This section is available only in case the **Special Audit** type is selected.
+{% endhint %}
 
 User can add New Specific Procedure To Be Performed  via "+" button: 
 
@@ -135,7 +137,7 @@ If no Audit Staff Team Members are granted the access to the Engagement, the fol
 
 ![The error message while no auditors are accessed to the engagement](../../.gitbook/assets/25.png)
 
-C**reated** Engagement has the reference number, displayed at the top of the screen and the status "IP Contacted". 
+**Created** Engagement has the reference number, displayed at the top of the screen and the status **"IP Contacted".** 
 
 ![Reference Number](../../.gitbook/assets/41.png)
 

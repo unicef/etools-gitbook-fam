@@ -10,7 +10,7 @@ User can choose the **number of the displayed Action Points per page**, it can b
 
 ![Rows per page](../../.gitbook/assets/30.png)
 
-Clicking on the reference number for each row will take user to the corresponding **Engagements Details**.
+Clicking the reference number for each row will take user to the corresponding **Engagements Details**.
 
 ## Export
 
@@ -20,13 +20,13 @@ The List of Action points can be exported to **CSV** file using the "Export" but
 
 ## Searching
 
-User can search through the Engagements, and the search can be perfomed  for Partner name or Auditor fields.
+User can search through the Engagements, and the search can be perfomed for Partner name or Auditor fields.
 
 ![Search bar in the upper left-hand corner](../../.gitbook/assets/33.png)
 
 ## Filtering
 
- In the upper right-hand corner the user can use "Add filter" option with set of parameters to be chosen.
+In the upper right-hand corner the user can use "Add filter" option with set of parameters to be chosen.
 
 List can be filtered using the different kinds of filters: Auditor, Engagement Type, Partner, Status, Joint Audit. 
 

@@ -2,7 +2,7 @@
 
 After the user \(**Auditor**\) gets the access to the particular engagement, the Report can be filled in.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Reporting is available until the Engagement status is **"Report submitted"**. 
 
 For **Canceled** Engagement the Report is not available.
