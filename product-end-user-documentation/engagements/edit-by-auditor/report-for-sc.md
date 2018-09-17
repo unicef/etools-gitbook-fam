@@ -1,2 +1,2 @@
-# Report for SC
+# Report for Spot Check
 

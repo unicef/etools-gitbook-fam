@@ -1,4 +1,4 @@
-# Report for MA
+# Report for Micro Assessment
 
 In case of the Micro Assessment Engagement type, the Report tab looks loke the following:
 
