@@ -17,7 +17,7 @@ Here is the overall user interface for Engagement Overview tab:
 
 The detailed information of this tab can be find [here](../how-to-add-new-engagement.md). 
 
-### Editable section:
+### Editable sections:
 
 * **Audit Staff Team Members** section.
 
@@ -47,7 +47,7 @@ Here is the overall user interface for Attachments tab:
 
 The detailed information of the Related Documents section can be find [here](../how-to-add-new-engagement.md).
 
-### Editable section:
+### Editable sections:
 
 * **Report Attachments** section
 
