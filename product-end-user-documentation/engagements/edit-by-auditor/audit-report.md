@@ -1,14 +1,4 @@
-# Audit Report
-
-Screen for the created Engagement has 3 tabs:
-
-* Engagement Overview tab
-* Report tab
-* Attachments tab
-
-In the Engagement Overview tab User can see all the information that was provided during the Engagement creation. Here is the overall user interface for this tab:
-
-![](../../../.gitbook/assets/2018-09-17_1702.png)
+# Report for Audit
 
 In case of the Audit Engagement type, the Report tab will looks like the following:
 

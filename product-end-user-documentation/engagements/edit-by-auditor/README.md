@@ -10,7 +10,13 @@ Auditor can fill in or change the Report up until the Engagement status is **"Re
 For **Canceled** Engagement the Report is not available.
 {% endhint %}
 
-You can find more details about the editable fields for all engagement types in the following articles: [Editable tabs for all Engagement types ](editable-tabs-for-all-engagements-types.md)and [Editable tabs for each Engagement type](editable-tabs-for-each-engagement-type/).
+Screen for the created Engagement has 3 tabs:
+
+* Engagement Overview tab
+* Report tab
+* Attachments tab
+
+~~You can find more details about the editable fields for all engagement types in the following articles:~~ [~~Editable tabs for all Engagement types~~ ](editable-tabs-for-all-engagements-types.md)~~and~~ [~~Editable tabs for each Engagement type~~](editable-tabs-for-each-engagement-type/)~~.~~
 
 ## Save changes
 
