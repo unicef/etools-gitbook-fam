@@ -44,4 +44,8 @@
 * [Interaction with VISION](technical-documentation/interactions-with-vision.md)
 * [API Documentation](technical-documentation/api-documentation/README.md)
   * [Error Handling](technical-documentation/api-documentation/error-handling.md)
+* [Frontend](technical-documentation/frontend/README.md)
+  * [Module structure](technical-documentation/frontend/module-structure.md)
+  * [Build process](technical-documentation/frontend/build-process.md)
+  * [Tests](technical-documentation/frontend/tests.md)
 
