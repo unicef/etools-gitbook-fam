@@ -1,5 +1,6 @@
 # Glossary / Terminology
 
+* Auditor - Non UNICEF user who reports on an engagement which is assigned to him.
 * AP - action point
 * CSO - Civil Society Organization
 * ICE form - itemized cost estimate
