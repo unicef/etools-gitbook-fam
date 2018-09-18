@@ -3,7 +3,7 @@
 ## Files structure
 
 {% tabs %}
-{% tab title="root/:" %}
+{% tab title="application\_root/:" %}
 I  
 - `.circleci/`   
 - `gulp-tasks/`   
@@ -24,14 +24,14 @@ I
 {% endtab %}
 {% endtabs %}
 
-In root directory you can find all configuration files for development and build process. Here you can find Docker config files, configs for code linting, tests, gulp config, node server. Code for gulp tasks is placed in     `gulp-tasks/` directory. You can find all source files in `src/` directory.
+In application root directory you can find all configuration files for development and build process. Here you can find Docker config files, configs for code linting, tests, gulp config, node server. Code for gulp tasks is placed in     `gulp-tasks/` directory. You can find all source files in `src/` directory.
 
 `src/` directory contains `index.html` file, `assets/` directory with images and polyfill script, and `elements` directory with all application components.
 
 ## Elements directory structure
 
 {% tabs %}
-{% tab title="root/src/elements/ :" %}
+{% tab title="application\_root/src/elements/ :" %}
 I  
 - `app-behaviors`   
 - `common-elements`   
