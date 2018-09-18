@@ -13,8 +13,8 @@ This documentation has a navigation sidebar on the left of the screen, which can
   * [General overview](product-end-user-documentation/overview/) and [user rights ](product-end-user-documentation/overview/user-roles-and-permissions.md)
   * [Access to the FAM](product-end-user-documentation/how-to-get-to-the-fam.md)
   * [Adding new Engagement](product-end-user-documentation/engagements/how-to-add-new-engagement.md)
-  * Reporting the [Audit](product-end-user-documentation/engagements/edit-by-auditor/editable-tabs-for-each-engagement-type/untitled.md), [Micro Assessment](product-end-user-documentation/engagements/edit-by-auditor/editable-tabs-for-each-engagement-type/micro-assessment.md), [Spot Check](product-end-user-documentation/engagements/edit-by-auditor/editable-tabs-for-each-engagement-type/spot-check.md) and [Special Audit](product-end-user-documentation/engagements/edit-by-auditor/editable-tabs-for-each-engagement-type/special-audit.md) by Auditor 
-  * [Modifying](product-end-user-documentation/engagements/edit-by-uniceff-focal-point/) and[ finalizing](product-end-user-documentation/engagements/finalization/) the engagement by UNICEF Focal Point
+  * Reporting the [Audit](), [Micro Assessment](), [Spot Check]() and [Special Audit]() by Auditor 
+  * [Modifying]() and[ finalizing](product-end-user-documentation/engagements/finalization/) the engagement by UNICEF Focal Point
   * [Staff Spot Checks section differences](product-end-user-documentation/staff-spot-checks/)
   * [General FAM Workflow](product-end-user-documentation/fam-workflow.md)
 * **Technical documentation**  describing the technical background and properties  of the FAM module.

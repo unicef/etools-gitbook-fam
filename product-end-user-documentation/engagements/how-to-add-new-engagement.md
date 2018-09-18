@@ -145,6 +145,13 @@ If no Audit Staff Team Members are granted the access to the Engagement, the fol
 
 ![Reference Number](../../.gitbook/assets/41.png)
 
+## Modification after creation
+
+After the Engagement was created, UNICEF Focal point user is able to edit the following sections of the Engagement:
+
+* Audit Staff Team Members 
+* Attachments \(Related Documents\) 
+
 ## **Email notification**
 
 The following email of granted access is sent to the Auditor after the Engagement was created:

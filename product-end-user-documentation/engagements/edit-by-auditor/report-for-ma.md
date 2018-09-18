@@ -1,14 +1,8 @@
 # Report for Micro Assessment
 
-In case of the Micro Assessment Engagement type, the Report tab looks loke the following:
+In case of the Micro Assessment Engagement type, the Report tab looks like the following:
 
-
-
-
-
-Micro Assessment Engagement has the additional Questionnaire tab. 
-
-You can find the detailed description of these tabs below:
+![Report tab for MA: overall user interface](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJxF2RKg63Q700gpAQ8%2F-LKaWKDkPJAjRqVYilvP%2F-LKaYSaEDieEh4YOY7f-%2F62.png?alt=media&token=643f9794-f14b-47a8-8c7b-da8b71f02d33)
 
 Report tab for MA has the following sections:
 
@@ -20,6 +14,16 @@ Report tab for MA has the following sections:
 
 
 ![Report tab for MA: overall user interface](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJxF2RKg63Q700gpAQ8%2F-LKaWKDkPJAjRqVYilvP%2F-LKaYSaEDieEh4YOY7f-%2F62.png?alt=media&token=643f9794-f14b-47a8-8c7b-da8b71f02d33)
+
+## Engagement status
+
+This section is the common part of the Report tab for all Engagement types 
+
+![Engagement Status section](../../../.gitbook/assets/42.png)
+
+Each field in this section represents the Audit status. So, as the Auditor fills the dates, Engagement status is changing:
+
+![Engagement Status and  Status panel](../../../.gitbook/assets/43.png)
 
 ## Overall Risk Assessment
 
@@ -64,4 +68,27 @@ Each row can be edited or deleted via "Edit" and "Delete" buttons correspondingl
 ![Edit button](../../../.gitbook/assets/73.png)
 
 ![Delete button](../../../.gitbook/assets/74.png)
+
+##  **Questionnaire** tab
+
+  
+Micro Assessment Engagement has the additional **Questionnaire** tab that needs to be filled in before the Submission of the Report. 
+
+Questionnaire is the list of questions, divided by sections:
+
+![](../../../.gitbook/assets/2018-09-18_1625.png)
+
+There are 7 sections and each section has different number of questions. Auditor has to estimate the Risk Assessment for each question. It can be done by using the dropdown fields that are placed on the right side of every question:
+
+![Dropdown list for Risk Assessment](../../../.gitbook/assets/2018-09-18_1627.png)
+
+Each section of questions and each question can be expandede via the arrow buttont at the left hand corner of the rows. Auditor can use the "Edit" button at the right side of each question to write mode details on the specific question:
+
+![](../../../.gitbook/assets/2018-09-18_1633.png)
+
+ After the user clicks on this button, the following modal window appears:
+
+![Edit Question modal window](../../../.gitbook/assets/2018-09-18_1628.png)
+
+
 

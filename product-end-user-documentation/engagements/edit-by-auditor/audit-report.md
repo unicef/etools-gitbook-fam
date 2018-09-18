@@ -1,6 +1,6 @@
 # Report for Audit
 
-In case of the Audit Engagement type, the Report tab will looks like the following:
+In case of the Audit Engagement type, the Report tab looks like following:
 
 ![](../../../.gitbook/assets/2018-09-17_1251.png)
 

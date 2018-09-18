@@ -1,14 +1,12 @@
 # Reporting of Engagement
 
-After the user \(**Auditor**\) gets the access to the particular engagement, the Report can be filled in.
+
 
 {% hint style="info" %}
-Auditor can fill in or change the Report up until the Engagement status is **"Report submitted"**. 
+Reporting of the Engagement is availible for the **Auditor** users. 
 {% endhint %}
 
-{% hint style="info" %}
-For **Canceled** Engagement the Report is not available.
-{% endhint %}
+After the user gets the access to the particular engagement, the Report can be filled in.
 
 Screen for the created Engagement has 3 tabs:
 
@@ -16,7 +14,7 @@ Screen for the created Engagement has 3 tabs:
 * Report tab
 * Attachments tab
 
-~~You can find more details about the editable fields for all engagement types in the following articles:~~ [~~Editable tabs for all Engagement types~~ ](editable-tabs-for-all-engagements-types.md)~~and~~ [~~Editable tabs for each Engagement type~~](editable-tabs-for-each-engagement-type/)~~.~~
+These tabs are described in detail in the paragraphs of the current section. 
 
 ## Save changes
 
@@ -24,13 +22,8 @@ Changes can be saved via the split button "Save" at the bottom of Status panel.
 
 ![Save button](../../../.gitbook/assets/36.png)
 
-## Submit Report
-
-Submitting is available after all required information is entered and the report document is attached in the Attachments tab.
-
-"Submit" option can be in the drop-down list of the "Save" split button.  
-
-![Submit button](../../../.gitbook/assets/37.png)
+  
+Auditor can fill in or change the Report up until the Engagement status is **"Report submitted"**.
 
 ## **Email notification**
 
