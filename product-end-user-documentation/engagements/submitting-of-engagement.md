@@ -10,5 +10,3 @@ In case user has missed some required fields, Report won't be submitted and user
 
 ![Notification example](../../.gitbook/assets/2018-09-18_1619.png)
 
-After successfull submittion Engagement status will be changed to the Final Report. 
-

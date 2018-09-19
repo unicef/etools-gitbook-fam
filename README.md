@@ -12,12 +12,12 @@ This documentation has a navigation sidebar on the left of the screen, which can
 * **Product \(end-user documentation\)** Here you can find the description of:
   * [General overview](product-end-user-documentation/overview/) and [user rights ](product-end-user-documentation/overview/user-roles-and-permissions.md)
   * [Access to the FAM](product-end-user-documentation/how-to-get-to-the-fam.md)
-  * [Adding new Engagement](product-end-user-documentation/engagements/how-to-add-new-engagement.md)
-  * Reporting the [Audit](), [Micro Assessment](), [Spot Check]() and [Special Audit]() by Auditor 
-  * [Modifying]() and[ finalizing](product-end-user-documentation/engagements/finalization/) the engagement by UNICEF Focal Point
-  * [Staff Spot Checks section differences](product-end-user-documentation/staff-spot-checks/)
+  * [Creation of new Engagement](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/how-to-add-new-engagement) by UNICEF Focal Point
+  * Reporting the [Audit](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/audit-report), [Micro Assessment](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/report-for-ma), [Spot Check](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/report-for-sc) and [Special Audit](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/report-for-special-audit) by Auditor 
+  * [Finalization ](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/finalization)of the engagement by UNICEF Focal Point
+  * [Staff Spot Checks section](product-end-user-documentation/staff-spot-checks/)
   * [General FAM Workflow](product-end-user-documentation/fam-workflow.md)
-* **Technical documentation**  describing the technical background and properties  of the FAM module.
+* **Technical documentation** that describes technical background and features of the FAM module.
 
 ## Design Philosophy of FAM
 
@@ -25,5 +25,5 @@ The UX / visual design philosophy builds on [Google Material Design](https://mat
 
 ## Technical design of FAM
 
-The technical design philosophy for FAM builds on what has already been established by the eTools team at UNICEF. More information here: [https://github.com/unicef/etools](https://github.com/unicef/etools).
+The technical design philosophy for FAM builds on what has already been established by the eTools team at UNICEF. More information see here: [https://github.com/unicef/etools](https://github.com/unicef/etools).
 
