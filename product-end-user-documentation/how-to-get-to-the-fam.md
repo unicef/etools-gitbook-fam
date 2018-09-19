@@ -2,8 +2,6 @@
 
 ### There are 3 ways to access the FAM.
 
-There are 3 ways to access the FAM:
-
 ## **1\)** via the app icon ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJT531BxmrgZ_gS1UJP%2F-LJYBYkRsoCsOjAkX1Zh%2F-LJYDRFEPbZSWKnklnjK%2F4.png?alt=media&token=d947bbe3-6eb2-42c1-9d4f-23da783e477b)
 
   User can switch to the FAM by selecting “Financial Assurance” module icon:

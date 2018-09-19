@@ -4,7 +4,7 @@ List of Engagements contains the Engagements of all types and statuses. Here is 
 
 ![List of Engagements: overall user interface](../../.gitbook/assets/image.png)
 
-User can **sort column** in either ascending or descending order.
+User can **sort columns** in either ascending or descending order.
 
 User can choose the **number of the displayed Action Points per page**, it can be selected in the following dropdown field \(the default value is 10 rows per page\):
 
