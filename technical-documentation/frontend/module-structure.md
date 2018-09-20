@@ -33,25 +33,25 @@ In application root directory you can find all configuration files for developme
 {% tabs %}
 {% tab title="application\_root/src/elements/ :" %}
 I  
-- `app-behaviors`   
-- `common-elements`   
+- `app-behaviors/`   
+- `common-elements/`   
         I  
-        -  `engagement-overview-components`   
-        - `engagement-report-components`   
+        -  `engagement-overview-components/`   
+        - `engagement-report-components/`   
         - ...Other common elements  
-- `core-elements`   
+- `core-elements/`   
         I  
-        - `app-config`   
-        - `app-shell` \(main application component\)  
-        - `app-main-header`   
-        - `app-sidebar`   
-- `data-elements`    
-- `pages`   
+        - `app-config/`   
+        - `app-shell/` \(main application component\)  
+        - `app-main-header/`   
+        - `app-sidebar/`   
+- `data-elements/`    
+- `pages/`   
         I  
-        - `audits-page-components`   
-        - `engagements-page-components`   
+        - `audits-page-components/`   
+        - `engagements-page-component/s`   
         - ...Other components related to specific page  
-- `styles-elements` 
+- `styles-elements/` 
 {% endtab %}
 {% endtabs %}
 
