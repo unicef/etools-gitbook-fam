@@ -18,13 +18,13 @@
 - `tests` - tests for models, views, serializers, transitions flow  
 - `transitions` - everything that is related to fsm transitions  
     - `conditions.py` - custom checks for transitions \(For example in case of submitting report we need to be assured that report attachments exists  
-    - `serializers.py` - transitions serializers to validate their input\) arguments \(see more in [permissions framework section](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LMvLmlA8vvTj01eRyrf/technical-documentation/permissions-framework)\)  
+    - `serializers.py` - transitions serializers to validate their input\) arguments \(see more in [permissions framework section](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/technical-documentation/permissions-framework)\)  
 - `admin.py` - admin site definitions for models  
 - `apps.py` - python app configuration  
-- `conditions.py` - conditions to perform FSM transitions. see more details [here](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LMvLmlA8vvTj01eRyrf/technical-documentation/fsm-transitions-conditions)  
+- `conditions.py` - conditions to perform FSM transitions. see more details [here](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/technical-documentation/fsm-transitions-conditions)  
 - `exports.py` - csv renderers  
 - `filters.py` - rest framework views filters  
-- `metadata.py` - base metadata class to be used in viewsets. more in [API Metadata section](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/~/edit/drafts/-LMvLmlA8vvTj01eRyrf/technical-documentation/api-metadata)  
+- `metadata.py` - base metadata class to be used in viewsets. more in [API Metadata section](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/technical-documentation/api-metadata)  
 - `models.py` -  country-related audit models  
 - `signals.py` - app signals. custom logic for user deletion; sending notifications in case of assigning action points  
 - `urls.py` - app urls  
