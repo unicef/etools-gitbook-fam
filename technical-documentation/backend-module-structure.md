@@ -21,7 +21,7 @@
     - `serializers.py` - transitions serializers to validate their input\) arguments \(see more in [permissions framework section](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/technical-documentation/permissions-framework)\)  
 - `admin.py` - admin site definitions for models  
 - `apps.py` - python app configuration  
-- `conditions.py` - conditions to perform FSM transitions. see more details [here](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/technical-documentation/fsm-transitions-conditions)  
+- `conditions.py` - permissions conditions. see more details [here](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/technical-documentation/permissions-framework)  
 - `exports.py` - csv renderers  
 - `filters.py` - rest framework views filters  
 - `metadata.py` - base metadata class to be used in viewsets. more in [API Metadata section](https://razortheory.gitbook.io/third-party-monitoring-module-documentation/technical-documentation/api-metadata)  
