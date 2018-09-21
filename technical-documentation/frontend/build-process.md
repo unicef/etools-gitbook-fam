@@ -10,7 +10,7 @@ Use the following command to build an application for development:
 gulp devup
 ```
 
-This comand will run several gulp tasks. It will clean destenation directory,  build source files using polytempl, babel and other plugins, copy necessary assets and bower components. Than it will run node server by executing `express.js` file and start watching changes in application source files.
+This comand will run several gulp tasks. It will clean destenation directory,  build source files using polytempl, babel and other plugins, copy necessary assets and bower components. Then it will run node server by executing `express.js` file and start watching changes in application source files.
 
 ### Production
 
