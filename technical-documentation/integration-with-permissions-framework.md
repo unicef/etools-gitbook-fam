@@ -1,6 +1,6 @@
 # Integration with permissions framework
 
-Auditor portal is tightly connected with permissions framework. For their updating special management command were written. It can be called as
+Auditor portal is tightly connected with the permissions framework. Special management command were written to update them. It can be called as:
 
 ```text
 python manage.py update_audit_permissions

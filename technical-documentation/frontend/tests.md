@@ -2,7 +2,7 @@
 
 ### Run tests
 
-To run a tests you can use this command:
+To run the tests you can use the following command:
 
 ```text
 gulp test
