@@ -4,7 +4,7 @@ User can add New Staff Spot Check in a similar manner as the Engagement, that is
 
 Here is the overall user interface: 
 
-![Add New Staff Spot Check screen](../../.gitbook/assets/115.png)
+![](../../.gitbook/assets/2018-09-25_1921.png)
 
 The Engagement Overview section has some differences from the regular Engagement: 
 
