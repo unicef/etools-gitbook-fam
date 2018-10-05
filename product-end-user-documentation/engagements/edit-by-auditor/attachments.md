@@ -21,7 +21,7 @@ After the Auditor clicks on this button, the following modal window appears:
 
 ![Attach File modal window](../../../.gitbook/assets/46.png)
 
-Attached files can be edited or deleted via "Edit" and "Delete" buttons correspondingly:
+Attached files can be edited or deleted via "Edit" and "Delete" buttons correspondingly \("Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Attachments list\):
 
 ![Edit button](../../../.gitbook/assets/47.png)
 

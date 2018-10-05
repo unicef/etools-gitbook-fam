@@ -33,7 +33,7 @@ UNICEF Focal Point receives the following email right after the Report was submi
 
 ## **Export** 
 
-Auditor can **export** the engagement to the **PDF** or **CSV** file via the "Export" button in the upper right-hand corner.
+Auditor can **Export** the Engagement to the **PDF** or **CSV** file via the "Export" button in the upper right-hand corner.
 
 ![Export options](../../../.gitbook/assets/49.png)
 

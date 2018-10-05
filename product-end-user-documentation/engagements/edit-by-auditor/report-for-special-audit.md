@@ -22,7 +22,7 @@ Each field in this section represents the Audit status. So, as the Auditor fills
 
 ## Specific Procedure to be Performed
 
-User can edit this section via "Edit" button at the end of each row: 
+User can edit this section via "Edit" button at the end of each row \("Edit" button appears after user hover the mouse over the particular line from the Specific Procedures To Be Performed list\): 
 
 ![Edit button ](../../../.gitbook/assets/95.png)
 
@@ -39,7 +39,7 @@ Auditor can add New Recommendation  via "+" button:
 
 ![Add New Recommendation modal window](../../../.gitbook/assets/98.png)
 
-User can edit or delete the existing Recommendation via "Edit" and "Delete" buttons correspondingly:
+User can edit or delete the existing Recommendation via "Edit" and "Delete" buttons correspondingly \("Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Other Observations and Recommendations list\):
 
 ![Edit button](../../../.gitbook/assets/99.png)
 

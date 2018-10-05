@@ -42,7 +42,7 @@ Displayed fields in this section vary depending on the type of the Engagement, t
 ![Engagement Overview for Audit Engagement](../../.gitbook/assets/7.png)
 
 {% hint style="info" %}
-If Audit or Spot check Engagement type is selected, user can see the tool-tip, that reminds to attach the required documents.  
+If Audit or Spot check Engagement type is selected, user can see the tool-tip, that on mouse hover reminds to attach the required documents.  
 {% endhint %}
 
 ![Tool-tip with the reminder](../../.gitbook/assets/8.png)
@@ -73,7 +73,7 @@ User can grant the access to the particular auditor in the modal window during t
 
 **Editing/Deleting**
 
-There is an opportunity to edit or delete Audit Staff Team Member via the "Edit" and "Delete" button correspondingly.
+There is an opportunity to edit or delete Audit Staff Team Member via the "Edit" and "Delete" button correspondingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the APs list\).
 
 ![Edit button](../../.gitbook/assets/13.png)
 
@@ -131,15 +131,15 @@ Other statuses are activated after the Auditor fills in the corresponding fields
 {% endtab %}
 {% endtabs %}
 
-When the required information is entered, the user can click the "Create" button at the bottom of the status panel to create the engagement.
+When the required information is entered, the user can click the "Create" button at the bottom of the status panel to create the Engagement.
 
 ![Create button](../../.gitbook/assets/27.png)
 
 {% hint style="info" %}
-If no Audit Staff Team Members are granted the access to the Engagement, the following error will appear:
+If no Audit Staff Team Members are granted the access to the Engagement, the following error will appear when user will try to Create Engagement:
 {% endhint %}
 
-![The error message while no auditors are accessed to the engagement](../../.gitbook/assets/25.png)
+![The error message while no auditors are accessed to the Engagement](../../.gitbook/assets/25.png)
 
 **Created** Engagement has the reference number, displayed at the top of the screen and the status **"IP Contacted".** 
 
@@ -156,7 +156,7 @@ After the Engagement was created, UNICEF Focal point user is able to edit the fo
 
 The following email of granted access is sent to the Auditor after the Engagement was created:
 
-![Email of granting the access to the engagement](../../.gitbook/assets/26%20%281%29.png)
+![Email of granting the access to the Engagement](../../.gitbook/assets/26%20%281%29.png)
 
 
 

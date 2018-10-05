@@ -23,7 +23,7 @@ Each field in this section represents the Audit status. So, as the Auditor fills
 
 ## Summary of Audit Findings
 
-Auditor can change the information in this section using the "Edit" button at the end of each row.
+Auditor can change the information in this section using the "Edit" button at the end of each row \( "Edit" button appears after user hover the mouse over the particular line from the APs list\).
 
 ![Edit button](../../../.gitbook/assets/55.png)
 
@@ -49,7 +49,7 @@ Each row can be expanded via the arrow to open the additional details:
 
 ![Expanded row with the additional Finding details](../../../.gitbook/assets/53.png)
 
-Each Finding can be edited or deleted via the "Edit" or "Delete" button accordingly. 
+Each Finding can be edited or deleted via the "Edit" or "Delete" button accordingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the APs list\): 
 
 ![Edit button](../../../.gitbook/assets/54.png)
 
@@ -64,7 +64,7 @@ Auditor can add new Assessment using the following modal window, that can be ope
 
 ![Add New Assessment of Key Internal Controls modal window ](../../../.gitbook/assets/57.png)
 
-Each row is expandable and has "Edit" and "Delete" options.
+Each row is expandable and has "Edit" and "Delete" options \(corresponding buttons became visibe when user hover the mouse over the particular line\).
 
 ## Key Internal Control Weaknesses
 
@@ -83,7 +83,7 @@ Adding new Risk is available in the following modal window:
 ![Add New Risk modal window](../../../.gitbook/assets/66.png)
 
   
-Each risk can be edited or deleted via "Edit" ****or "Delete" ****button accordingly:
+Each risk can be edited or deleted via "Edit" ****or "Delete" ****button accordingly \("Edit" and "Delete" buttons appear after user hover the mouse over the particular line of Key Internal Control Weaknesses details\):
 
 ![Edit button](../../../.gitbook/assets/60.png)
 

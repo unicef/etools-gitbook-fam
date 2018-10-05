@@ -8,9 +8,9 @@ The user have to fill in **cancellation reason** in the following modal window o
 
 ![Cancellation of Engagement modal window](../../.gitbook/assets/104.png)
 
-Cancelled engagement is marked with the cancellation note in the top of the screen. The status is changed to **"cancelled"**. 
+Cancelled Engagement is marked with the cancellation note in the top of the screen. The status is changed to **"cancelled"**. 
 
-![Cancelled engagement marked with the cancellation note](../../.gitbook/assets/105.png)
+![Cancelled Engagement marked with the cancellation note](../../.gitbook/assets/105.png)
 
 {% hint style="info" %}
 After the Engagement status became "Cancelled", the Report is not available for submission.

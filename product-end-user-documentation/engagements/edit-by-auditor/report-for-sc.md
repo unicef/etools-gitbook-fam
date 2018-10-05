@@ -40,7 +40,7 @@ After Auditor clicks on this button, the following modal window appears:
 
 ![Add New Finding modal window](../../../.gitbook/assets/85.png)
 
-Each row can be edited or deleted via the "Edit" or "Delete" buttons correspondingly:
+Each row can be edited or deleted via the "Edit" or "Delete" buttons correspondingly \("Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Findings list\):
 
 ![Edit button](../../../.gitbook/assets/86.png)
 
@@ -63,7 +63,7 @@ After Auditor clicks on this button, the following modal window appears:
 
 ![Add New Finding modal window](../../../.gitbook/assets/89.png)
 
-Each row can be edited or deleted via the "Edit" or "Delete" button correspondingly: 
+Each row can be edited or deleted via the "Edit" or "Delete" button correspondingly \("Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Findings list\): 
 
 ![Edit button](../../../.gitbook/assets/91.png)
 

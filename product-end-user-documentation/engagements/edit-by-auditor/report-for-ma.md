@@ -39,7 +39,7 @@ Tested Subject Areas section consists of the expandable rows that describe the p
 
 ![Tested Subject Areas section: expandable row](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LJxF2RKg63Q700gpAQ8%2F-LKaWKDkPJAjRqVYilvP%2F-LKaYsznRzLXoZTk_yP-%2F65.png?alt=media&token=270f1f3a-99f8-40d6-b39e-81a46f3f9397)
 
-Each row can be edited via "Edit" button:
+Each row can be edited via "Edit" button \("Edit" button appears after user hover the mouse over the particular line from the Tested Subject Areas list\):
 
 
 
@@ -63,7 +63,7 @@ After user clicks on this button, the following modal window appears:
 
 ![Add New Findings modal window](../../../.gitbook/assets/72.png)
 
-Each row can be edited or deleted via "Edit" and "Delete" buttons correspondingly:
+Each row can be edited or deleted via "Edit" and "Delete" buttons correspondingly \("Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Findings list\):
 
 ![Edit button](../../../.gitbook/assets/73.png)
 
@@ -82,7 +82,7 @@ There are 7 sections and each section has different number of questions. Auditor
 
 ![Dropdown list for Risk Assessment](../../../.gitbook/assets/2018-09-18_1627.png)
 
-Each section of questions and each question can be expandede via the arrow buttont at the left hand corner of the rows. Auditor can use the "Edit" button at the right side of each question to write mode details on the specific question:
+Each section of questions and each question can be expandede via the arrow buttont at the left hand corner of the rows. Auditor can use the "Edit" button at the right side of each question \(appears by mouse hover on the line\) to write mode details on the specific question:
 
 ![](../../../.gitbook/assets/2018-09-18_1633.png)
 

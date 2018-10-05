@@ -1,6 +1,6 @@
 # Follow-Ups
 
-The Follow-Up tab includes the following  **sections** in accordance with the Engagement type: 
+The Follow-Up tab includes the following **sections** in accordance with the Engagement type: 
 
 <table>
   <thead>
@@ -50,7 +50,7 @@ The following modal window appears after the user clicks the "+" button:
 
 ![Add Action Point modal window](../../../.gitbook/assets/111.png)
 
-Each Action point, added to the section, can be duplicated or edited via "Duplicate" and "Edit" buttons correspondingly:
+Each Action point, added to the section, can be duplicated or edited via "Duplicate" and "Edit" buttons correspondingly \( "Duplicate" and "Edit" buttons appear after user hover the mouse over the particular line from the UNICEF Follow-Up Actions list\):
 
 ![Duplicate button](../../../.gitbook/assets/113.png)
 
