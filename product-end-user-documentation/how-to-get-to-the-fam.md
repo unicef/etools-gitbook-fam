@@ -18,7 +18,7 @@ The user can access the FAM via the link in the email to a **particular engageme
 
 ![Switch to Action Points Dashboard](../.gitbook/assets/2.png)
 
-2\)  The user should filter the list of Action Points by Financial Assurance  "Related App":
+2\)  The user should filter the list of Action Points by clicking "Add Filter" button in the top right corner of the screen and selecting the required  "Related App" filter and then choose the FAM 
 
 ![List of Action Points filtered by Financial Assurance related app](../.gitbook/assets/35%20%281%29.png)
 

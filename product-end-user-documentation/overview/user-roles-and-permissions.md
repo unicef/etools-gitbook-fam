@@ -1,6 +1,6 @@
 # User roles and permissions
 
-The below table represents the various roles and permissions for three different users who use the Financial Assurance Module.
+The table below represents the various roles and permissions for three different users who use the Financial Assurance Module.
 
 <table>
   <thead>
