@@ -42,6 +42,7 @@
 * [Deployment / DevOps](technical-documentation/deployment-devops.md)
 * [Backend Module structure](technical-documentation/backend-module-structure.md)
 * [Data Model](technical-documentation/data-model.md)
+* [Fixtures & management commands](technical-documentation/fixtures-and-management-commands.md)
 * [Integration with permissions framework](technical-documentation/integration-with-permissions-framework.md)
 * [Interaction with VISION](technical-documentation/interactions-with-vision.md)
 * [API Documentation](technical-documentation/api-documentation/README.md)
