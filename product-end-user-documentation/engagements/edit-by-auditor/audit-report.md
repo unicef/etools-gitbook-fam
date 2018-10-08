@@ -23,7 +23,7 @@ Each field in this section represents the Audit status. So, as the Auditor fills
 
 ## Summary of Audit Findings
 
-Auditor can change the information in this section using the "Edit" button at the end of each row \( "Edit" button appears after user hover the mouse over the particular line from the APs list\).
+Auditor can change the information in this section using the "Edit" button at the end of each row \( "Edit" button appears after user hover the mouse over the particular line from the Summary of Audit Findings list\).
 
 ![Edit button](../../../.gitbook/assets/55.png)
 
@@ -49,7 +49,7 @@ Each row can be expanded via the arrow to open the additional details:
 
 ![Expanded row with the additional Finding details](../../../.gitbook/assets/53.png)
 
-Each Finding can be edited or deleted via the "Edit" or "Delete" button accordingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the APs list\): 
+Each Finding can be edited or deleted via the "Edit" or "Delete" button accordingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Financial Findings list\): 
 
 ![Edit button](../../../.gitbook/assets/54.png)
 

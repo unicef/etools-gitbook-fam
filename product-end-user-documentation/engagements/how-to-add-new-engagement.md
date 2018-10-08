@@ -1,7 +1,7 @@
 # Creation of Engagement
 
 {% hint style="info" %}
-Creation of engagement is available for **UNICEF Focal Point** user. See more details about user rights in the ["User roles and permissions" ](../overview/user-roles-and-permissions.md)article.
+yCreation of engagement is available for **UNICEF Focal Point** user. See more details about user rights in the ["User roles and permissions" ](../overview/user-roles-and-permissions.md)article.
 {% endhint %}
 
 User can **Add** **New Engagement** by clicking the "Add New Engagement"  button, placed in the upper right-hand corner of the Engagements screen.
@@ -73,7 +73,7 @@ User can grant the access to the particular auditor in the modal window during t
 
 **Editing/Deleting**
 
-There is an opportunity to edit or delete Audit Staff Team Member via the "Edit" and "Delete" button correspondingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the APs list\).
+There is an opportunity to edit or delete Audit Staff Team Member via the "Edit" and "Delete" button correspondingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Audit Staff Team Members list\).
 
 ![Edit button](../../.gitbook/assets/13.png)
 
