@@ -10,7 +10,7 @@ The following sections are represented for overall UI:
 
 * reload icon,
 * profile dropdown,
-* country dropdown,
+* country workspace,
 * app icon to switch to another application or repository.
 
 ![Header](../.gitbook/assets/23.png)
