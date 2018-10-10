@@ -1,8 +1,8 @@
 # Overall User Interface
 
-The overall user interface for Financial Assurance Module is presented in the following screenshot:
+The overall UI for Financial Assurance Module is presented in the following screenshot:
 
-![Overall user interface](../.gitbook/assets/22%20%281%29.png)
+![Overall UI](../.gitbook/assets/22%20%281%29.png)
 
 The following sections are represented for overall UI:
 

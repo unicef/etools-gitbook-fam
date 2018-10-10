@@ -13,6 +13,7 @@
 * Rep - Report
 * SC - Spot Check
 * SOE - State Of Emergency
+* UI - user interface
 * UNICEF Focal Point \(FAM\) - UNICEF Focal Point is a staff member who can create an engagement and action point with the Financial Assurance Module.
 * UNICEF User \(FAM\) - UNICEF User is a staff member or individual consultant who has a view-only capability to the Financial Assurance Module but cannot create an engagement.
 

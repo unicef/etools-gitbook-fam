@@ -1,19 +1,19 @@
 # Creation of Engagement
 
 {% hint style="info" %}
-yCreation of engagement is available for **UNICEF Focal Point** user. See more details about user rights in the ["User roles and permissions" ](../overview/user-roles-and-permissions.md)article.
+Creation of Engagement is available for **UNICEF Focal Point** user. See more details about user rights in the ["User roles and permissions" ](../overview/user-roles-and-permissions.md)article.
 {% endhint %}
 
 User can **Add** **New Engagement** by clicking the "Add New Engagement"  button, placed in the upper right-hand corner of the Engagements screen.
 
-![Add new engagement button](../../.gitbook/assets/5.png)
+![Add New Engagement button](../../.gitbook/assets/5.png)
 
 The following screen is opened after the user clicks  the "Add New Engagement" button:
 
 ![Add New Engagement screen](../../.gitbook/assets/6.png)
 
 {% hint style="info" %}
-User can create 4 different types of Engagements:  Audit, Micro Assessment, Spot Check and Special Audit. Each engagement type has some differences comparing to the other ones, and they will be discussed in details in the corresponding sections.
+User can create 4 different types of Engagements:  Audit, Micro Assessment, Spot Check and Special Audit. Each Engagement type has some differences comparing to the other ones, and they will be discussed in details in the corresponding sections.
 {% endhint %}
 
 There are **3 sections** displayed on the screen:
@@ -73,7 +73,7 @@ User can grant the access to the particular auditor in the modal window during t
 
 **Editing/Deleting**
 
-There is an opportunity to edit or delete Audit Staff Team Member via the "Edit" and "Delete" button correspondingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Audit Staff Team Members list\).
+There is an opportunity to edit or delete Audit Staff Team Member via the "Edit" and "Delete" buttons correspondingly \( "Edit" and "Delete" buttons appear after user hover the mouse over the particular line from the Audit Staff Team Members list\).
 
 ![Edit button](../../.gitbook/assets/13.png)
 
@@ -90,7 +90,7 @@ User can choose the number of the rows, displayed per page \(The default value i
 ## Specific Procedure To Be Performed 
 
 {% hint style="info" %}
-This section is available only in case the **Special Audit** type is selected.
+This section is available **only** in case the **Special Audit** type is selected.
 {% endhint %}
 
 User can add New Specific Procedure To Be Performed  via "+" button: 
@@ -127,11 +127,11 @@ Under the status name user can find the date of the status change.
 
 New Engagement has **IP Contacted** status. 
 
-Other statuses are activated after the Auditor fills in the corresponding fields in the Engagement's Report \(see more details [here](edit-by-auditor/)\).
+Other statuses are activated after the Auditor fills in the corresponding fields in the Engagement's Report \(see more details [here](edit-by-auditor.md)\).
 {% endtab %}
 {% endtabs %}
 
-When the required information is entered, the user can click the "Create" button at the bottom of the status panel to create the Engagement.
+When the required information is entered, the user can click the "Create" button at the bottom of the status panel on the right side of the screen to create the Engagement.
 
 ![Create button](../../.gitbook/assets/27.png)
 
@@ -139,9 +139,9 @@ When the required information is entered, the user can click the "Create" button
 If no Audit Staff Team Members are granted the access to the Engagement, the following error will appear when user will try to Create Engagement:
 {% endhint %}
 
-![The error message while no auditors are accessed to the Engagement](../../.gitbook/assets/25.png)
+![The error message when no auditors are assigned to the Engagement](../../.gitbook/assets/25.png)
 
-**Created** Engagement has the reference number, displayed at the top of the screen and the status **"IP Contacted".** 
+**Created** Engagement has the reference number, that is displayed at the top of the screen and its status is **"IP Contacted".** 
 
 ![Reference Number](../../.gitbook/assets/41.png)
 

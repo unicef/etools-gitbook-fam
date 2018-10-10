@@ -14,8 +14,8 @@ This documentation has a navigation sidebar on the left of the screen, which can
   * [Access to the FAM](product-end-user-documentation/how-to-get-to-the-fam.md)
   * [Creation of new Engagement](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/how-to-add-new-engagement) by UNICEF Focal Point
   * Reporting the [Audit](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/audit-report), [Micro Assessment](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/report-for-ma), [Spot Check](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/report-for-sc) and [Special Audit](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/edit-by-auditor/report-for-special-audit) by Auditor 
-  * [Finalization ](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/finalization)of the engagement by UNICEF Focal Point
-  * [Staff Spot Checks section](product-end-user-documentation/staff-spot-checks/)
+  * [Finalization ](https://razortheory.gitbook.io/financial-assurance-module-documentation/~/edit/drafts/-LMh6GzbLhx4J8eCvQYt/product-end-user-documentation/engagements/finalization)of the Engagement by UNICEF Focal Point
+  * [Staff Spot Checks section](product-end-user-documentation/staff-spot-checks.md)
   * [General FAM Workflow](product-end-user-documentation/fam-workflow.md)
 * **Technical documentation** that describes technical background and features of the FAM module.
 
