@@ -1,16 +1,6 @@
 # Releases / Changelog\*
 
-## 1.0.1 - 2018.... {#1-0-1-2018}
+## September 2018 {#1-0-1-2018}
 
-### Fixed {#fixed}
-
-* TBD
-
-### Changed {#changed}
-
-* TBD
-
-## 1.0.0 - 2018.... {#1-0-0-2018}
-
-### Added {#added}
+During the workshop the APD module was discussed, approved and passed on to the UNICEF team 
 
